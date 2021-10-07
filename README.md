@@ -1,2 +1,3 @@
 # Project-Management
-Project Management Buga Dmitrii 
+Buga Dmitrii W-1842
+CV: soon 
